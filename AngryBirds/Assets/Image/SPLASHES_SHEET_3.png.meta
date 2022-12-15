@@ -1,0 +1,1264 @@
+fileFormatVersion: 2
+guid: d92c719f10d622d4fb4e94271a0001b4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SPLASHES_SHEET_3_0
+    21300002: SPLASHES_SHEET_3_7
+    21300004: SPLASHES_SHEET_3_14
+    21300006: SPLASHES_SHEET_3_15
+    21300008: SPLASHES_SHEET_3_16
+    21300010: SPLASHES_SHEET_3_17
+    21300012: SPLASHES_SHEET_3_18
+    21300014: SPLASHES_SHEET_3_19
+    21300016: SPLASHES_SHEET_3_20
+    21300018: SPLASHES_SHEET_3_21
+    21300020: SPLASHES_SHEET_3_22
+    21300022: SPLASHES_SHEET_3_23
+    21300024: SPLASHES_SHEET_3_24
+    21300026: SPLASHES_SHEET_3_25
+    21300028: SPLASHES_SHEET_3_26
+    21300030: SPLASHES_SHEET_3_27
+    21300032: SPLASHES_SHEET_3_28
+    21300034: SPLASHES_SHEET_3_29
+    21300036: SPLASHES_SHEET_3_30
+    21300038: SPLASHES_SHEET_3_31
+    21300040: SPLASHES_SHEET_3_32
+    21300042: SPLASHES_SHEET_3_33
+    21300044: SPLASHES_SHEET_3_34
+    21300046: SPLASHES_SHEET_3_35
+    21300048: SPLASHES_SHEET_3_36
+    21300050: SPLASHES_SHEET_3_37
+    21300052: SPLASHES_SHEET_3_38
+    21300054: SPLASHES_SHEET_3_39
+    21300056: SPLASHES_SHEET_3_40
+    21300058: SPLASHES_SHEET_3_41
+    21300060: SPLASHES_SHEET_3_42
+    21300062: SPLASHES_SHEET_3_43
+    21300064: SPLASHES_SHEET_3_44
+    21300066: SPLASHES_SHEET_3_45
+    21300068: SPLASHES_SHEET_3_46
+    21300070: SPLASHES_SHEET_3_47
+    21300072: SPLASHES_SHEET_3_48
+    21300074: SPLASHES_SHEET_3_49
+    21300076: SPLASHES_SHEET_3_50
+    21300078: SPLASHES_SHEET_3_51
+    21300080: SPLASHES_SHEET_3_52
+    21300082: SPLASHES_SHEET_3_53
+    21300084: SPLASHES_SHEET_3_54
+    21300086: SPLASHES_SHEET_3_55
+    21300088: SPLASHES_SHEET_3_56
+    21300090: SPLASHES_SHEET_3_57
+    21300092: SPLASHES_SHEET_3_58
+    21300094: SPLASHES_SHEET_3_59
+    21300096: SPLASHES_SHEET_3_60
+    21300098: SPLASHES_SHEET_3_61
+    21300100: SPLASHES_SHEET_3_62
+    21300102: SPLASHES_SHEET_3_63
+    21300104: SPLASHES_SHEET_3_64
+    21300106: SPLASHES_SHEET_3_65
+    21300108: SPLASHES_SHEET_3_66
+    21300110: SPLASHES_SHEET_3_67
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 176
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9bf756a016d564c9abee3629be7f78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 84
+        width: 175
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb737fa8eb2312041a6be54633a945d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 92
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce5130dcbc7dc74a9977cec24cc08ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_15
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 85
+        width: 120
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8360cc423f893474397bcfc6d114855c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 114
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9025a9838a8f07847a8cf96efcd77e6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 66
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1320568f8572a8a4ebe1e223a602f38f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 65
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba3d082e43335a498f07281205bdf13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 57
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88351b1f073efb47966338a1cfd81f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_20
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 63
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30740c6adc0dcab49a77e06a624d47bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 53
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4817daf92149c547a9fc6ad47b480dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_22
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 52
+        width: 274
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb19cf2d0bc4d34cac87a5179eaa7db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 42
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f2a7524270265469b5930b64b80e9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 43
+        width: 37
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5126ba448cf213b48a918d382825dc2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 43
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b03a76484f09a488b678104c86ea28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 43
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1f4f1d1e7e6c44fb6043e33bd27830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 43
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1c901ba5d8ec8409ef89fb115021ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 43
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051a509e9483eb2408a388f526709e71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 43
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63d26e9163c15e4bb592a08f742d00c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 43
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88615bd07e5c29f4d96a08325a1ad170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_31
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 41
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7237fba4274c443ac4c54d7dc241a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 42
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0312e7eaab2d5974a91f19f7fd8f4a39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_33
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 42
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c2aa9f1972b884099306b5982e649b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 41
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e73dd7e85b80249a6f4ab782208388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 41
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafcd12e2c7617d4995d58ce8c8791c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 41
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ad08e429bc16848b2867b681f1237a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_37
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 42
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e06967dc4be8b4994f96dbca105821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_38
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 43
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3805af77c5cb3894f81599d1cf81bd75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_39
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 41
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306229c04b0893248a574748e5663871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 43
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109662a1e96b50c4f857b01c22460bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_41
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 27
+        width: 109
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9773016a9936246af817544dd21c6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 29
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cf17814496970408ed8d21bcab261f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_43
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 27
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b6b2316bd39ad4b8126396d188536a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 27
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a6a4e6a32bc9648a815a953ffa3c5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 29
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56657a9f6ea33a24f85849c9459a657f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 29
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2ac1417184aa34d90d14bd6ac16c78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 27
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0a45f3a3674cd40aca4b4921110879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_48
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 29
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddc653a30ff8bf478e3fbb923d8fc54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_49
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 29
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8233571d87f79564db2819e97cf6c486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_50
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 29
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393d6d1afe5710943969db6bc64a8e3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_51
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 29
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac211d20716b90641b12f72069ea6fe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_52
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 29
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3c24a9606282c4481741c0a12c98bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_53
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 29
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45746983e209bbf4fbb7e135ecd597f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_54
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 29
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab50f760699b6048ac75226fcb49008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_55
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 29
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd5a4119f74756449dd57fc1b5dbb26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_56
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 29
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5473307854baf4cb7b4255020b012f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_57
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 29
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b3e4589a3beba44928b1f44b059a45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_58
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 27
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bc2cb8c2795164790ac909d2d9798b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_59
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 29
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb961a2cca91d9408ec9f29c50c30ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 154
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67e775255bae774c9c9d26a6c5355df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 7
+        width: 82
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d22921a615e75640bcd1a862b71b708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 7
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c817e4c80f0a6c44c88273fed51d5ed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_63
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 7
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fe52de0fcb26d4f85cb141ae49f661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_64
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 7
+        width: 97
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def6db4698142e14abd3fe84b4969e9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_65
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 8
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45758768a7624f34895648cbf4c1f502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_66
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 8
+        width: 45
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5297c4d21ee0742a9c67a27069ce3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPLASHES_SHEET_3_67
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 8
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0f88e9b48e3a247b69b6cd53f19791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 84354994b2d63374a886b56634a719e5
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
